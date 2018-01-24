@@ -1,4 +1,4 @@
-# Point Cloud Generator
+# Semantic Segmentation using PointNet Architecture
 The following program was written by Trygve Gröndahl, Mattias Rahm and Mattias Landgren during a course at Chalmers University of Technology during the fall 2017.
 
 ## Introduction
@@ -25,4 +25,4 @@ Using their environment the Visualize script generates plots of the models and o
 When h5 files containing models and labels are generated, a PointNet can be trained. In order to use it, the number of models needs to be replaced in 'train.py', 'evalute.py' and in the neural net in 'pointnet_cls.py'. Which h5 file that is used is changed in 'train_files.txt' and 'test_files.txt'.
 
 ## Future work
-The results were promissing for own models, but in order to classify a real-life point cloud, a better clustering algorithm is needed to extract a single robot. New robot CAD models and real-life training data is important for further improvement and verification that it works for robots with cables and other details that is not in the CAD models.
+The results were promising for own models, but in order to classify a real-life point cloud, a better clustering algorithm is needed to extract a single robot. New robot CAD models and real-life training data is important for further improvement and verification that it works for robots with cables and other details that is not in the CAD models.
