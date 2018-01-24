@@ -1,4 +1,4 @@
-# PointcloudGenerator
+# Point Cloud Generator
 The following program was written by Trygve Gröndahl, Mattias Rahm and Mattias Landgren during a course at Chalmers University of Technology during the fall 2017.
 
 ## Introduction
@@ -8,8 +8,8 @@ This project adds the translation between the different programs and filetypes. 
 
 ## Installation
 To implement this project yourself you will need some software, 
-[FreeCAD](https://www.freecadweb.org/)
-[PyntCloud](https://pyntcloud.readthedocs.io/en/latest/index.html)
+[FreeCAD](https://www.freecadweb.org/),
+[PyntCloud](https://pyntcloud.readthedocs.io/en/latest/index.html) and
 [PointNet](https://github.com/charlesq34/pointnet)
 
 ## Usage
